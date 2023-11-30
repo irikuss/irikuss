@@ -1,4 +1,8 @@
 ### Hi there 👋
+- 😄 Pronouns: she/her/ella
+- ⚡ Fun fact: I speak Spanish and English
+
+Cheers!
 
 <!--
 **irikuss/irikuss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
